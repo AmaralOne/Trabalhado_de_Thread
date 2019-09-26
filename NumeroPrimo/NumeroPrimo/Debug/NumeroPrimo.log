@@ -1,0 +1,5 @@
+﻿  NumeroPrimo.cpp
+c:\users\flaviofilho\source\repos\numeroprimo\numeroprimo\numeroprimo.cpp(38): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\flaviofilho\source\repos\numeroprimo\numeroprimo\numeroprimo.cpp(75): warning C4101: 'tDecorrido': variável local não referenciada
+c:\users\flaviofilho\source\repos\numeroprimo\numeroprimo\numeroprimo.cpp(147): warning C4101: 'tDecorrido': variável local não referenciada
+  NumeroPrimo.vcxproj -> C:\Users\FlavioFilho\source\repos\NumeroPrimo\Debug\NumeroPrimo.exe

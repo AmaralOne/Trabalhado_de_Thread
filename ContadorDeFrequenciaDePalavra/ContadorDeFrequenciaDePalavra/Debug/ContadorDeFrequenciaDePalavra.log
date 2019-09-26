@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ContadorDeFrequenciaDePalavra.cpp
+c:\users\flaviofilho\source\repos\contadordefrequenciadepalavra\contadordefrequenciadepalavra\contadordefrequenciadepalavra.cpp(35): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\flaviofilho\source\repos\contadordefrequenciadepalavra\contadordefrequenciadepalavra\contadordefrequenciadepalavra.cpp(36): warning C4018: '<': incompatibilidade de signed/unsigned
+  ContadorDeFrequenciaDePalavra.vcxproj -> C:\Users\FlavioFilho\source\repos\ContadorDeFrequenciaDePalavra\Debug\ContadorDeFrequenciaDePalavra.exe

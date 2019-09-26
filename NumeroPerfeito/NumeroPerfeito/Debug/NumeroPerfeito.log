@@ -1,0 +1,36 @@
+﻿  pch.cpp
+  NumeroPerfeito.cpp
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(8): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(8): error C2146: erro de sintaxe: ';' ausente antes do identificador 'mu'
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(10): error C2061: erro de sintaxe: identificador 'stack'
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(17): error C2065: 'stack': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(17): error C2062: tipo 'unsigned __int64' inesperado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(19): error C2065: 'cout': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(19): error C2065: 'endl': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(20): error C2065: 'cin': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(21): error C2065: 'cout': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(21): error C2065: 'endl': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(22): error C2065: 'cin': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(25): error C2065: 'thread': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(25): error C2065: 'myThreads': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(25): error C2061: erro de sintaxe: identificador 'thread'
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(28): error C2065: 'myThreads': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(28): error C2065: 'pilha': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(28): error C3861: 'thread': identificador não encontrado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(32): error C2065: 'myThreads': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(36): error C2065: 'pilha': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(38): error C2065: 'cout': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(38): error C2065: 'pilha': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(38): error C2065: 'endl': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(39): error C2065: 'pilha': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(40): error C2065: 'pilha': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(43): error C2065: 'cout': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(43): error C2065: 'endl': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(46): error C2065: 'cout': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(46): error C2065: 'endl': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(51): error C2061: erro de sintaxe: identificador 'stack'
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(55): error C2065: 'mu': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(58): error C2065: 'mu': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(60): error C2065: 'mu': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(61): error C2065: 'pilha': identificador não declarado
+c:\users\flaviofilho\source\repos\numeroperfeito\numeroperfeito\numeroperfeito.cpp(62): error C2065: 'mu': identificador não declarado
